@@ -1,4 +1,13 @@
 # AI-Job-Recommender-System-using-Langchain-Gemini-
+---
+<img width="886" height="246" alt="image" src="https://github.com/user-attachments/assets/c2156a24-2de5-405c-8400-145af7e60f9a" />
+
+
+
+
+
+
+---
 
 ### **A Streamlit app that:**
 
