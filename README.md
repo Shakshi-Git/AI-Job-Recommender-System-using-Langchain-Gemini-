@@ -9,15 +9,14 @@ A Streamlit app that:
 🔍🌐 (Optional) Fetches LinkedIn jobs via Apify using those keywords
 
 
-**Features**
+🌟 Features
+📄➡️🔤 PDF → Text with PyMuPDF (fitz)
 
---PDF → Text with PyMuPDF (fitz) helper. 
+🧩🤝 LangChain + Gemini chains: Summary, Gaps, Roadmap, Keywords (single LLM, reusable chains)
 
---Gemini + LangChain chains for: Summary, Gaps, Roadmap, and Keywords (single LLM, reusable chains). 
+🖥️⚡ Streamlit UI: upload resume → view insights → fetch jobs
 
---Streamlit UI: upload resume, view results, then query LinkedIn jobs. 
-
---LinkedIn jobs via Apify with sensible defaults (title, location, rows).
+💼🔎 LinkedIn jobs via Apify with sensible inputs (title, location, rows)
 
 
 **Project Structure**
