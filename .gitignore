@@ -1,0 +1,20 @@
+#cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+#virtual environment
+.venv/
+venv/
+env/
+
+#vs code
+.vscode/
+.DS_Store
+Thumbs.db
+
+#Env security
+.env
+.env.*
+.streamlit/secrets.toml
