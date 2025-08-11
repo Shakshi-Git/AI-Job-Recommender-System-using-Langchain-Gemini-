@@ -1,6 +1,6 @@
 # AI-Job-Recommender-System-using-Langchain-Gemini-
 
-A Streamlit app that:
+**A Streamlit app that:**
 
 📄➡️📝 Extracts text from a PDF resume
 
@@ -9,7 +9,8 @@ A Streamlit app that:
 🔍🌐 (Optional) Fetches LinkedIn jobs via Apify using those keywords
 
 
-🌟 Features
+
+**🌟 Features**
 📄➡️🔤 PDF → Text with PyMuPDF (fitz)
 
 🧩🤝 LangChain + Gemini chains: Summary, Gaps, Roadmap, Keywords (single LLM, reusable chains)
