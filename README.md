@@ -2,11 +2,11 @@
 
 A Streamlit app that:
 
---extracts text from a PDF resume,
+📄➡️📝 Extracts text from a PDF resume
 
---uses Gemini (via LangChain) to summarize, find skill gaps, suggest a roadmap, and generate job-search keywords,
+🧠✨ Uses Gemini (via LangChain) to summarize, find skill gaps, suggest a roadmap, and generate job-search keywords
 
---and (optionally) fetches LinkedIn jobs via Apify using those keywords. 
+🔍🌐 (Optional) Fetches LinkedIn jobs via Apify using those keywords
 
 
 **Features**
